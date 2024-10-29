@@ -79,7 +79,7 @@ Our documentation is essential to help new users and contributors understand the
 ### Help us Improve the Documentation:
 
 - If you find a section that is unclear or incomplete, feel free to submit a pull request with your improvements.
-- If you’re unsure how to improve the documentation, \[open an issue\](https://github.com/NMFS-RADFish/boilerplate/issues) and describe what is missing or unclear.
+- If you’re unsure how to improve the documentation, [open an issue](https://github.com/NMFS-RADFish/boilerplate/issues) and describe what is missing or unclear.
 - Examples and tutorials are especially valuable\! If you've used the project and created your own examples, we would love to add them to our examples library.
 
 ## 4\. Feature Requests
